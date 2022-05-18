@@ -5,6 +5,7 @@ import './index.css'
 // module import
 import { Container } from 'react-bootstrap';
 import {HashRouter as Router, Route,Routes } from 'react-router-dom'
+import {Helmet} from 'react-helmet'
 
 // file import
 import Home from './components/Home'
@@ -14,6 +15,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
+
     <Router>
     <Header/>
     <div className="vl" style={{borderLeft: '5px solid green',height: '123rem', position:'absolute', marginLeft:'3rem'}}></div>
@@ -24,7 +26,7 @@ function App() {
 }}
     className='overlay' data-text='Bienvenido'>WELCOME</p></Container>
     <Home/>
-    <main>
+    <main>      
       <Container>
         <Routes>
         <Route path="/home" element={<Home />}></Route>
