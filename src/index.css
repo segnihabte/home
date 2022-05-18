@@ -1,0 +1,125 @@
+@font-face {
+  font-family: "Brilliant";
+  src: url("../src/components/assets/Fonts/Brilliant\ signature\ regular.otf");
+}
+@font-face {
+    font-family: "Patrick";
+    src: url("../src/components/assets/Fonts/PatrickHandSC-Regular.ttf");
+}
+@font-face {
+    font-family: "Ano";
+    src: url("../src/components/assets/Fonts/IBMPlexSerif-Regular.ttf");
+}
+@font-face {
+    font-family: "SF";
+    src: url("../src/components/assets/Fonts/SF-Pro-Display-Regular.otf");
+}
+@font-face {
+    font-family: "SFbold";
+      src: url("../src/components/assets/Fonts/SF-Pro-Display-Semibold.otf");
+}
+@font-face {
+      font-family: "SFthin";
+      src: url("../src/components/assets/Fonts/SF-Pro-Display-Thin.otf");
+}
+
+@font-face {
+        font-family: "Lora";
+        src: url("../src/components/assets/Fonts/Lora-VariableFont_wght.ttf");
+}
+@font-face {
+  font-family: "Helvetica";
+  src: url("../src/components/assets/Fonts/Helvetica\ Neue\ Medium\ Extended.ttf");
+}
+
+main{
+  min-height: 80vh;
+}
+.nav1{
+  height: 5%;
+  font-family: 'SF';
+  font-size:medium;
+  Background-color: #013421;  
+}
+
+.hello{
+  padding-top: 15rem;
+  text-align: center;
+  font-family: 'Brilliant';
+  font-size: 7rem;
+  animation: fadeIn 8s;
+}
+
+@keyframes fadeIn {
+  from{
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+  }
+}  
+
+
+.is-visible {
+  opacity: 1;
+  transform: none;
+  visibility: visible;
+  display: flex; 
+}
+
+.brand{
+  font-family: 'Brilliant';
+  border-color: #fff;
+  border-top: #fff;
+  border: 20px;
+}
+
+.text-center.py-3{
+  border: none;
+}
+
+.card-body{
+  font-size: 1rem;
+  font-family: 'SF';
+}
+
+.mainForm{
+  background-color: #ffffff;
+
+}
+
+.text-muted2{
+  width: 90%;
+  text-align: center;
+  font-family: 'Patrick';
+  font-size: 1rem;
+}
+.text-muted{
+  width: 80%;
+}
+footer{width: 100%; position: absolute; margin-left: 0rem; margin-top: 2rem; height: 20%rem;}
+
+/* #overlay {
+  opacity: 100%;
+  position: absolute;
+  z-index:90;
+  font-size: 100rem;
+} */
+div.photo-holder.card{
+  border: none;
+  
+}
+div.text-center1{
+  border: none;
+  margin-left: 1rem;
+  
+}
+div.text-center11{
+  border: none;
+  font-family: 'Patrick';
+}
+.LastRow{
+  align-content: center;
+  font-family: 'SF';
+  font-size: 0.9rem;
+}
