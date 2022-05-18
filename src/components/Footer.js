@@ -14,6 +14,9 @@ function Footer() {
                 Linkedin: https://www.linkedin.com/in/segni-teshome-
               </Form.Text></Col>
               <Col><Form.Text className="text-muted">
+                Phone Number: +251 919342550
+              </Form.Text></Col>
+              <Col><Form.Text className="text-muted">
                 Github: https://github.com/segnihabte
               </Form.Text></Col>
               <Col><Form.Text className="text-muted">
