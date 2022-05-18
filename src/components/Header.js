@@ -10,10 +10,10 @@ function Header() {
     <Container >
     <Navbar.Brand className='brand' href="#home">SEGNI</Navbar.Brand>
         <Nav className="me-auto">
-          <Nav.Link className='About'>About
+          {/* <Nav.Link className='About'>About
           </Nav.Link>
           <Nav.Link className='Services'>Services</Nav.Link>
-          <Nav.Link className='Contact'>Contact</Nav.Link>
+          <Nav.Link className='Contact'>Contact</Nav.Link> */}
           </Nav>
     </Container>
   </Navbar>

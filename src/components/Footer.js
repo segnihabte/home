@@ -11,24 +11,25 @@ function Footer() {
           <Container>
             <Row>
               <Col><Form.Text className="text-muted">
-                Linkedin
+                Linkedin: https://www.linkedin.com/in/segni-teshome-5811b3217
               </Form.Text></Col>
               <Col><Form.Text className="text-muted">
-                Github
+                Github: https://github.com/segnihabte
               </Form.Text></Col>
               <Col><Form.Text className="text-muted">
-                Instagram
+                Instagram: https://www.instagram.com/__segni_/
               </Form.Text></Col>
             </Row>
             <Row>
               <Col><Form.Text className="text-muted">
-                Facebook
+                Facebook:segniThabte
               </Form.Text></Col>
               <Col><Form.Text className="text-muted">
-                gmail
+                gmail: segnih36@gmail.com
               </Form.Text></Col>
               <Col><Form.Text className="text-muted">
-                Telegram
+                <li>Telegram: https://t.me/segni47</li>
+                
               </Form.Text></Col>
             </Row>
         </Container>

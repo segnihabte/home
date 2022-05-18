@@ -4,7 +4,7 @@ import './index.css'
 
 // module import
 import { Container } from 'react-bootstrap';
-import {BrowserRouter as Router, Route,Routes } from 'react-router-dom'
+import {HashRouter as Router, Route,Routes } from 'react-router-dom'
 
 // file import
 import Home from './components/Home'
@@ -23,10 +23,11 @@ function App() {
     ,wordWrap:'break-word'
 }}
     className='overlay' data-text='Bienvenido'>WELCOME</p></Container>
+    <Home/>
     <main>
       <Container>
         <Routes>
-        <Route path="/" element={<Home />}></Route>
+        <Route path="/home" element={<Home />}></Route>
         <Route path="/work" element={<works />}></Route>
         <Route path="/contact" element={<contact />}></Route>
         <Route path="/services" element={<services />}></Route>
