@@ -14,9 +14,6 @@ function Footer() {
                 Linkedin: https://www.linkedin.com/in/segni-teshome-
               </Form.Text></Col>
               <Col><Form.Text className="text-muted">
-                Phone Number: +251 919342550
-              </Form.Text></Col>
-              <Col><Form.Text className="text-muted">
                 Github: https://github.com/segnihabte
               </Form.Text></Col>
               <Col><Form.Text className="text-muted">
@@ -31,7 +28,9 @@ function Footer() {
                 gmail: segnih36@gmail.com
               </Form.Text></Col>
               <Col><Form.Text className="text-muted">
-                <li>Telegram: https://t.me/segni47</li>
+              <Col><Form.Text className="text-muted">
+                Phone Number: +251 919342550
+              </Form.Text></Col>
                 
               </Form.Text></Col>
             </Row>
