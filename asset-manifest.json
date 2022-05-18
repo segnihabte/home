@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.76b0c967.css",
+    "main.js": "/home/static/js/main.e28f88b8.js",
+    "static/js/787.84b4023a.chunk.js": "/home/static/js/787.84b4023a.chunk.js",
+    "static/media/SF-Pro-Display-Semibold.otf": "/home/static/media/SF-Pro-Display-Semibold.a190e216116306b329f4.otf",
+    "static/media/SF-Pro-Display-Thin.otf": "/home/static/media/SF-Pro-Display-Thin.86b7336186c27f4f9414.otf",
+    "static/media/SF-Pro-Display-Regular.otf": "/home/static/media/SF-Pro-Display-Regular.f5e583dfac3368328ef8.otf",
+    "static/media/Main.jpg": "/home/static/media/Main.215de586e2e76f488030.jpg",
+    "static/media/Lora-VariableFont_wght.ttf": "/home/static/media/Lora-VariableFont_wght.86de6b10bfdf301a5714.ttf",
+    "static/media/IBMPlexSerif-Regular.ttf": "/home/static/media/IBMPlexSerif-Regular.9e4f976f096928f3c895.ttf",
+    "static/media/PatrickHandSC-Regular.ttf": "/home/static/media/PatrickHandSC-Regular.252ca06ea72e1535bdc1.ttf",
+    "static/media/Brilliant signature regular.otf": "/home/static/media/Brilliant signature regular.dbe64ead84d54ce92969.otf",
+    "static/media/Helvetica Neue Medium Extended.ttf": "/home/static/media/Helvetica Neue Medium Extended.372d58a9bf10285baebe.ttf",
+    "index.html": "/home/index.html",
+    "main.76b0c967.css.map": "/home/static/css/main.76b0c967.css.map",
+    "main.e28f88b8.js.map": "/home/static/js/main.e28f88b8.js.map",
+    "787.84b4023a.chunk.js.map": "/home/static/js/787.84b4023a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76b0c967.css",
+    "static/js/main.e28f88b8.js"
+  ]
+}
