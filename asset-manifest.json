@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home/static/css/main.76b0c967.css",
-    "main.js": "/home/static/js/main.94685346.js",
+    "main.js": "/home/static/js/main.1f610b28.js",
     "static/js/787.b3c5dc86.chunk.js": "/home/static/js/787.b3c5dc86.chunk.js",
     "static/media/SF-Pro-Display-Semibold.otf": "/home/static/media/SF-Pro-Display-Semibold.a190e216116306b329f4.otf",
     "static/media/SF-Pro-Display-Thin.otf": "/home/static/media/SF-Pro-Display-Thin.86b7336186c27f4f9414.otf",
@@ -14,11 +14,11 @@
     "static/media/Helvetica Neue Medium Extended.ttf": "/home/static/media/Helvetica Neue Medium Extended.372d58a9bf10285baebe.ttf",
     "index.html": "/home/index.html",
     "main.76b0c967.css.map": "/home/static/css/main.76b0c967.css.map",
-    "main.94685346.js.map": "/home/static/js/main.94685346.js.map",
+    "main.1f610b28.js.map": "/home/static/js/main.1f610b28.js.map",
     "787.b3c5dc86.chunk.js.map": "/home/static/js/787.b3c5dc86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76b0c967.css",
-    "static/js/main.94685346.js"
+    "static/js/main.1f610b28.js"
   ]
 }
