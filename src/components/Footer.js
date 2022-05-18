@@ -11,7 +11,7 @@ function Footer() {
           <Container>
             <Row>
               <Col><Form.Text className="text-muted">
-                Linkedin: https://www.linkedin.com/in/segni-teshome-919342550
+                Linkedin: https://www.linkedin.com/in/segni-teshome-
               </Form.Text></Col>
               <Col><Form.Text className="text-muted">
                 Github: https://github.com/segnihabte
