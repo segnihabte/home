@@ -110,9 +110,8 @@ function Home() {
         UI/UX DESIGN <br/>
         GRAPHICS DESIGN <br/>
         PYTHON NETWORKING AND BACKEND <br/>
-        PYTHNO MACHINE LEARNING AND NEURAL NETWORK DESIGN <br/>
         REST AND RESFUL API <br/>
-        FULLSTACK WEBSITES
+        FULLSTACK WEBSITES<br/>
         GIT AND GITHUB
         </Container>
         </Col>
